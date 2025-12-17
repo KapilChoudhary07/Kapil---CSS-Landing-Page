@@ -8,7 +8,7 @@ This project is designed to showcase my **web development skills, certificates, 
 
 
 ## 🌐 Live Preview
-🔗 https://your-portfolio-link.web.app  
+🔗kapil-css-landing-page.vercel.app
 
 
 
